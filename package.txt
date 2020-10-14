@@ -1,0 +1,8 @@
+NAME=glu
+VERSION=9.0.1
+REVISION=1
+LICENSE=MIT
+SRC=https://archive.mesa3d.org/glu/glu-9.0.1.tar.xz
+SRCMD5=151aef599b8259efe9acd599c96ea2a3
+BUILDDEPS=mesa
+INSTALLDEPS=mesa
